@@ -1,3 +1,8 @@
 .classpath
+<<<<<<< HEAD
 node_modules/
+=======
+.settings
+/node_module/
+>>>>>>> development
 
